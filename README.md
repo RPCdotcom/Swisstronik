@@ -40,3 +40,39 @@ chmod +x perc20.sh
 ```console
 git add . && git commit -m "Initial commit" && git push origin main
 ```
+
+Private NFT erc721 : 
+
+```console
+https://raw.githubusercontent.com/RPCdotcom/Swisstronik/main/perc721.sh
+```
+
+```console
+chmod +x private.sh
+```
+
+```console
+./private.sh
+```
+
+```console
+git add . && git commit -m "Initial commit" && git push origin main
+```
+
+Proxy : 
+
+```console
+https://github.com/RPCdotcom/Swisstronik/blob/main/proxy.sh
+```
+
+```console
+chmod +x proxy.sh
+```
+
+```console
+./proxy.sh
+```
+
+```console
+git add . && git commit -m "Initial commit" && git push origin main
+```
