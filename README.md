@@ -50,11 +50,11 @@ https://raw.githubusercontent.com/RPCdotcom/Swisstronik/main/perc721.sh
 ```
 
 ```console
-chmod +x private.sh
+chmod +x perc721.sh
 ```
 
 ```console
-./private.sh
+./perc721.sh
 ```
 
 ```console
