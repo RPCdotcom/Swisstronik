@@ -99,7 +99,7 @@ async function main() {
 
   console.log('');
   
-  const upgradedSwisstronik = await upgrades.deployProxy(Swisstronik, ['Hello Swisstronik from Happy Cuan Airdrop!!'], { kind: 'transparent' });
+  const upgradedSwisstronik = await upgrades.deployProxy(Swisstronik, ['Hello Swisstronik from RPCdot Airforce!!'], { kind: 'transparent' });
   await upgradedSwisstronik.waitForDeployment(); 
   console.log('Proxy Swisstronik deployed to:', upgradedSwisstronik.target);
   fs.writeFileSync("proxiedContract.txt", upgradedSwisstronik.target);
