@@ -46,7 +46,7 @@ Private NFT erc721 :
 Crate A Repo For NFT ERC 
 
 ```console
-https://raw.githubusercontent.com/RPCdotcom/Swisstronik/main/perc721.sh
+wget https://raw.githubusercontent.com/RPCdotcom/Swisstronik/main/perc721.sh
 ```
 
 ```console
@@ -66,7 +66,7 @@ Proxy :
 Crate A Repo For Proxy
 
 ```console
-https://github.com/RPCdotcom/Swisstronik/blob/main/proxy.sh
+wget https://github.com/RPCdotcom/Swisstronik/blob/main/proxy.sh
 ```
 
 ```console
