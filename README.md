@@ -21,3 +21,24 @@ chmod +x erc721.sh
 ```console
 git add . && git commit -m "Initial commit" && git push origin main
 ```
+PERC-20 
+
+Crate A Repo 
+
+PERC-20 : 
+
+```console
+wget https://raw.githubusercontent.com/RPCdotcom/Swisstronik/main/perc20.sh
+```
+
+```console
+chmod +x perc20.sh
+```
+
+```console
+chmod +x perc20.sh
+```
+
+```console
+git add . && git commit -m "Initial commit" && git push origin main
+```
