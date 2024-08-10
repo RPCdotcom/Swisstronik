@@ -1,5 +1,7 @@
 Gitpod : Enable public_repo option then click on Update Permissions
 
+https://gitpod.io/user/integrations
+
 Crate A Repo 
 
 721 : 
