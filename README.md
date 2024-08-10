@@ -21,9 +21,7 @@ chmod +x erc721.sh
 ```console
 git add . && git commit -m "Initial commit" && git push origin main
 ```
-PERC-20 
-
-Crate A Repo 
+Crate A Repo For PERC20
 
 PERC-20 : 
 
@@ -36,7 +34,7 @@ chmod +x perc20.sh
 ```
 
 ```console
-chmod +x perc20.sh
+./perc20.sh
 ```
 
 ```console
