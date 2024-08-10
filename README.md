@@ -66,7 +66,7 @@ Proxy :
 Crate A Repo For Proxy
 
 ```console
-wget https://github.com/RPCdotcom/Swisstronik/blob/main/proxy.sh
+wget https://raw.githubusercontent.com/RPCdotcom/Swisstronik/main/proxy.sh
 ```
 
 ```console
